@@ -1,0 +1,1 @@
+# guia-estudo-certificado-AWS-AI
