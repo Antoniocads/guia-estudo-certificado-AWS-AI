@@ -1,4 +1,4 @@
-## Formas de ensinar a machine learning.
+# Formas de ensinar a machine learning.
 
 Aualmente, existem três formas de ensinar a machine learning.
 
